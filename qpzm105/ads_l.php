@@ -111,6 +111,7 @@ $(document).ready(function(){
 	$('#product_list').dataTable({
 	"bFilter": true,
 	"aaSorting": [[ 0, "asc" ]],
+	"iDisplayLength": 25,
 	"oLanguage": {
       "sLengthMenu": "每頁顯示 _MENU_ 筆資料",
       "sZeroRecords": "無資料",
@@ -127,7 +128,7 @@ $(document).ready(function(){
           "sLast":     " 最後一頁 "
       }
   }, 
-      "aLengthMenu": [[10, 30, 50, 75, 100, -1], ["10", "30", "50", "75", "100", "全部"]]  //设置每页显示记录的下拉菜单
+      "aLengthMenu": [[25, 30, 50, 75, 100, -1], ["25", "30", "50", "75", "100", "全部"]]  //设置每页显示记录的下拉菜单
    });
 });	
 
