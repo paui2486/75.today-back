@@ -1,0 +1,919 @@
+2014-02-21 15:29:59170time: 2014-02-21 15:33:00\nmember_id: 170\ncode: 199\nstatus: no reg id or no device id.\ntime: 2014-02-21 15:34:41
+member_id: 170
+code: 199
+status: no reg id or no device id.
+time: 2014-02-21 15:34:56
+member_id: 170
+code: 199
+status: no reg id or no device id.
+==========================
+time: 2014-02-21 15:36:37
+member_id: 170
+code: 199
+status: no reg id or no device id.
+==========================
+time: 2014-02-21 15:39:43
+member_id: 170
+query_check: SELECT * FROM member_device WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM member_device where id = NULL
+query_insert: INSERT INTO member_device ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 15:39:43')
+gcm_result: 
+code: 300
+status: 
+==========================
+time: 2014-02-21 15:39:46
+member_id: 170
+query_check: SELECT * FROM member_device WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM member_device where id = NULL
+query_insert: INSERT INTO member_device ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 15:39:46')
+gcm_result: 
+code: 300
+status: 
+==========================
+time: 2014-02-21 15:50:11
+member_id: 170
+query_check: SELECT * FROM member_device WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM member_device where id = NULL
+query_insert: INSERT INTO member_device ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 15:50:11')
+gcm_result: 
+code: 300
+status: 
+==========================
+time: 2014-02-21 15:51:14
+member_id: 170
+query_check: SELECT * FROM member_device WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM member_device where id = 12
+query_insert: INSERT INTO member_device ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 15:51:14')
+gcm_result: 
+code: 300
+status: 
+==========================
+time: 2014-02-21 15:56:57
+member_id: 170
+code: 199
+status: no reg id or no device id.
+==========================
+time: 2014-02-21 15:57:04
+member_id: 170
+query_check: SELECT * FROM member_device WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM member_device where id = 13
+query_insert: INSERT INTO member_device ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 15:57:04')
+gcm_result: 
+code: 300
+status: 
+==========================
+time: 2014-02-21 15:57:07
+member_id: 170
+query_check: SELECT * FROM member_device WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM member_device where id = 14
+query_insert: INSERT INTO member_device ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 15:57:07')
+gcm_result: 
+code: 300
+status: 
+==========================
+time: 2014-02-21 16:06:59
+member_id: 170
+code: 199
+status: no reg id or no device id.
+==========================
+time: 2014-02-21 16:09:03
+member_id: 170
+code: 199
+status: no reg id or no device id.
+==========================
+time: 2014-02-21 16:35:26
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM device_android where id = 15
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 16:35:26')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-21 16:35:30
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM device_android where id = 16
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'2014-02-21 16:35:30')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-21 16:43:46
+member_id: 170
+code: 199
+status: no reg id or no device id.
+==========================
+time: 2014-02-21 16:44:01
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM device_android where id = 17
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-21 16:44:01')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-21 16:44:04
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM device_android where id = 18
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,'GT-S5570', 'zephyr' ,'2014-02-21 16:44:04')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-21 16:47:29
+code: 199
+status: no member id.
+==========================
+time: 2014-02-21 16:47:32
+code: 199
+status: no member id.
+==========================
+time: 2014-02-21 16:47:47
+code: 199
+status: no member id.
+==========================
+time: 2014-02-21 16:49:10
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_del: DELETE FROM device_android where id = 19
+code: 199
+status: 
+==========================
+time: 2014-02-21 16:51:07
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-42b9-6390-ffff-ffffad942db8', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-21 16:51:07')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-21 16:51:09
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+code: 199
+status: device id '00000000-42b9-6390-ffff-ffffad942db8' is already exist.
+==========================
+time: 2014-02-21 16:51:43
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+code: 199
+status: device id '00000000-42b9-6390-ffff-ffffad942db8' is already exist.
+==========================
+time: 2014-02-21 16:52:01
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-42b9-6390-ffff-ffffad942db8'
+code: 199
+status: device id '00000000-42b9-6390-ffff-ffffad942db8' is already exist.
+==========================
+time: 2014-02-23 19:09:02
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 12:17:42
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 12:17:42')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 12:20:21
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-24 12:21:28
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 12:21:28')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 12:28:37
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-24 12:32:56
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 12:32:56')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 12:40:27
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '0000-12345556788', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 12:40:27')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 12:40:50
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788'
+code: 199
+status: device id '0000-12345556788' is already exist.
+==========================
+time: 2014-02-24 12:45:40
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 12:45:40')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 13:37:08
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 13:37:08')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 13:38:22
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788'
+code: 199
+status: device id '0000-12345556788' is already exist.
+==========================
+time: 2014-02-24 13:38:28
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788'
+code: 199
+status: device id '0000-12345556788' is already exist.
+==========================
+time: 2014-02-24 13:39:08
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 13:39:08')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 13:41:48
+member_id: 107
+query_check: SELECT * FROM device_android WHERE device_id = '000-12345-67890'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (107, '000-12345-67890', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 13:41:48')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 13:43:59
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788'
+code: 199
+status: device id '0000-12345556788' is already exist.
+==========================
+time: 2014-02-24 13:44:14
+member_id: 190
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788'
+code: 199
+status: device id '0000-12345556788' is already exist.
+==========================
+time: 2014-02-24 13:44:23
+member_id: 190
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788fgdf'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (190, '0000-12345556788fgdf', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 13:44:23')
+code: 100
+status: success
+==========================
+time: 2014-02-24 13:45:50
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 13:46:16
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 13:47:00
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 13:47:54
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 13:48:05
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 13:48:17
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 13:48:17')
+code: 100
+status: success
+==========================
+time: 2014-02-24 13:52:12
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890'
+code: 199
+status: device id '1234567890' is already exist.
+==========================
+time: 2014-02-24 13:52:25
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwre'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwre', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 13:52:25')
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:15:59
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwre'
+code: 199
+status: device id '1234567890rtertretwertwre' is already exist.
+==========================
+time: 2014-02-24 14:17:33
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwre'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwre', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:17:33')
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:19:09
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwre'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwre', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:19:09')
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:19:49
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwre'
+code: 199
+status: device id '1234567890rtertretwertwre' is already exist.
+==========================
+time: 2014-02-24 14:20:12
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwre'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwre', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:20:12')
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:28:56
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 14:29:17
+code: 199
+status: no member id.
+==========================
+time: 2014-02-24 14:29:27
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '0000-12345556788dfadfasd'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '0000-12345556788dfadfasd', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:29:27')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:29:42
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwresdfadsf'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwresdfadsf', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:29:42')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:30:23
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwresdfadsf'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwresdfadsf', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:30:23')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:31:48
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwresdfadsf'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwresdfadsf', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:31:48')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:32:47
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwresdfadsf'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwresdfadsf', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:32:47')
+gcm_result: 
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:33:26
+member_id: 170
+query_check: SELECT * FROM device_android WHERE device_id = '1234567890rtertretwertwresdfadsf'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (170, '1234567890rtertretwertwresdfadsf', 'APA91bFmq-8CHcIatAv0VTjjs4Q-EPaB7GkwYK1ToipRgsIqv95W06MnJycNCcmAQirMXrG8-8tUSKdpcAq0fNR1Y6x04V5J_xq93zJZC1f_9A3sf2e5_dNLE_LGwaf-pQBjnreZWmHEABU3C8a_vWTqKvgUmTYnfA' ,NULL, NULL ,'2014-02-24 14:33:26')
+gcm_result: {"multicast_id":7591097776716335023,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393221530150743%81a0a110f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:41:14
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 14:41:14')
+gcm_result: {"multicast_id":4895029307708628993,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393221998651353%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 14:43:29
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 14:43:29')
+gcm_result: {"multicast_id":8662520084428888719,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393222133665874%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 15:52:35
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 15:52:35')
+gcm_result: {"multicast_id":8647397959318687112,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393226278923762%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:04:11
+member_id: 191
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-24 16:04:51
+member_id: 191
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (191, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 16:04:51')
+gcm_result: {"multicast_id":9207396992158474803,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393227014807829%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:08:18
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-24 16:12:55
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 16:12:55')
+gcm_result: {"multicast_id":7330123252092332502,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393227499167710%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:18:01
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-4ab3-f507-ffff-ffffe0d2e175', 'APA91bEHytEQrXN1CvSTVbv7orLKf-kcJFD4rRHysdJm3f8sVf8TSS3hKFbaKiHYo7BD0ZKRXPZoKJBiCdl2m4pDhvskXi95nOcCKDIetECjKtwTjwKV3qgTUn3zwywtUoMJ-7F431JqPNfTh12pgLIQ_GBPUMF0Kw' ,'LT15i', 'iwine-aphone' ,'2014-02-24 16:18:01')
+gcm_result: {"multicast_id":7217420717689036325,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393227805020877%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:29:10
+member_id: 191
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (191, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 16:29:10')
+gcm_result: {"multicast_id":5807909609667617351,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393228474617390%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:42:17
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 16:42:17')
+gcm_result: {"multicast_id":8524218952862644262,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1393229261212953%a74f9276f9fd7ecd"}]}
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:44:11
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 16:44:11')
+gcm_result: Field "data" must be a JSON array: []
+
+code: 100
+status: success
+==========================
+time: 2014-02-24 16:46:03
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-5c52-9d36-ffff-fffff92f4843', 'APA91bEtiixE278PwO6q2FLpjYOkSHg_bPQxQ-Sn8Xz3E6WvNS0f_64Lk1yCHt7ddC0n9kxSTHe8qjHogzDVAXq-ID7BiVfWRHf7O5C_X-r6rCFUVivPkmsoAA6dh3AqDBNbv76Du_LvEZT293DPXMTzsF59a3enTA' ,'GT-I9500', 'iwine-aphone' ,'2014-02-24 16:46:03')
+gcm_result: Field "data" must be a JSON array: []
+
+code: 100
+status: success
+==========================
+time: 2014-02-25 16:21:38
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 16:32:06
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 16:34:35
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 16:47:22
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 17:09:15
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 17:17:19
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 18:11:16
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 18:12:54
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 18:39:03
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 18:47:38
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 18:53:40
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 19:03:08
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 19:06:44
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-25 19:22:21
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 19:29:16
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 19:51:00
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-25 21:41:43
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 00:30:21
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 11:33:58
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-23b8-40d6-ffff-ffffc991ddf9'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-23b8-40d6-ffff-ffffc991ddf9', 'APA91bF_rQCpnxOKJbg5RwVI47Xi1hxN7w-POr793PGkaZd3ue_5rM430UCyCG8P8cIypo7kygGUDdZgopjtXsG7giucOhTSsC72crH19u4A68T_f3dfxPT1d7FhbbwIIfcWbQ20s994uj448-j73KXrre4WgNjmGA' ,'GT-N7100', 'iwine-aphone' ,'2014-02-26 11:33:58')
+gcm_result: Field "data" must be a JSON array: []
+
+code: 100
+status: success
+==========================
+time: 2014-02-26 11:39:37
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 11:44:31
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 11:47:31
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 11:49:37
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:29:55
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:33:09
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:35:18
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-26 14:36:23
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:39:05
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:39:22
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-26 14:41:27
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:44:06
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:51:22
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 14:57:06
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 18:18:48
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 18:21:37
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 18:41:25
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-26 23:19:34
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-27 14:25:52
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-27 14:59:17
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-27 15:29:06
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-27 16:16:40
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-02-27 16:38:43
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-02-27 16:46:53
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-03-04 10:18:47
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-04 10:26:12
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-10 17:42:39
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-03-10 17:51:26
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-03-12 16:47:20
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-13 17:06:01
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-4ab3-f507-ffff-ffffe0d2e175'
+code: 199
+status: device id '00000000-4ab3-f507-ffff-ffffe0d2e175' is already exist.
+==========================
+time: 2014-03-20 10:14:17
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-21 18:29:16
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-21 18:29:31
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-25 17:48:16
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-25 17:50:19
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-25 19:29:25
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-26 21:43:02
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-03-29 07:27:01
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-04-02 14:40:58
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-04-03 12:14:33
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-04-04 13:52:51
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-04-05 17:03:29
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-04-06 14:17:46
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-5c52-9d36-ffff-fffff92f4843'
+code: 199
+status: device id '00000000-5c52-9d36-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-05-08 16:37:23
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = 'ffffffff-c9b7-d70f-ffff-fffff92f4843'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, 'ffffffff-c9b7-d70f-ffff-fffff92f4843', 'APA91bH2fqLLkdcg_OJgbVTpp4pqJVZP9Ojwilv05x8fr9xDOeqwSE1puwFsiYmgFTHy4Wn8mptwULx9lm3kMpBxOXeaUlJdy0yx1DNon49PoU2p0Kbvzpdz8ySGJuHGNcMx5FhYNisNlxTtHIbtnitJMIDPZIbgVg' ,'GT-I9500', 'iwine-aphone' ,'2014-05-08 16:37:23')
+gcm_result: Field "data" must be a JSON array: []
+
+code: 100
+status: success
+==========================
+time: 2014-05-13 11:57:17
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = 'ffffffff-c9b7-d70f-ffff-fffff92f4843'
+code: 199
+status: device id 'ffffffff-c9b7-d70f-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-05-13 11:58:58
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = 'ffffffff-c9b7-d70f-ffff-fffff92f4843'
+code: 199
+status: device id 'ffffffff-c9b7-d70f-ffff-fffff92f4843' is already exist.
+==========================
+time: 2014-06-17 03:25:19
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = 'ffffffff-c9b7-d70f-ffff-fffff92f4843'
+code: 199
+status: device id 'ffffffff-c9b7-d70f-ffff-fffff92f4843' is already exist.
+==========================
+time: 2015-03-09 17:29:34
+member_id: 275
+query_check: SELECT * FROM device_android WHERE device_id = '00000000-0e93-9d9e-ffff-fffff9f368fa'
+query_insert: INSERT INTO device_android ( m_id, device_id, reg_id,device_name, app_name, create_time) VALUES (275, '00000000-0e93-9d9e-ffff-fffff9f368fa', 'APA91bEn_SkMvprAfF_ZLsnTnqqtOF-HC6aqDUe4byfH5vTXy09nIG4re7mZGg1ioVxJGK1T-1lwyNIaVI362YGfLY73a6TJDnghWufv29IYjLgZUOVgqhXbnNsET66NwIJXhaPmcWHVP-2YuTeugrpaMK6q52j9Vw' ,'SM-G900I', 'iwine-aphone' ,'2015-03-09 17:29:34')
+gcm_result: Field "data" must be a JSON array: []
+
+code: 100
+status: success

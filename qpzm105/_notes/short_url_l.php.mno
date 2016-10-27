@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_su_list" value="name:su_id;datatype:int,name:su_title;datatype:string,name:su_url;datatype:blob,name:su_url_short;datatype:string,name:su_memo;datatype:blob" /></info>

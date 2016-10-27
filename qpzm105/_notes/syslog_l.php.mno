@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_syslog" value="name:id;datatype:int,name:account_pid;datatype:string,name:login_ip;datatype:string,name:login_time;datatype:datetime,name:status;datatype:string" /></info>

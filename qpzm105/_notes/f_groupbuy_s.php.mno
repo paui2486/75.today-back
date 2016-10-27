@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Groupbuy" value="name:p_id;datatype:int,name:p_code;datatype:string,name:p_name;datatype:string,name:p_subtitle;datatype:blob,name:p_price1;datatype:int,name:p_price2;datatype:int,name:p_price3;datatype:int,name:p_noship_num;datatype:int,name:p_ship_price;datatype:int,name:p_discount_ratio;datatype:int,name:p_discount_price;datatype:int,name:p_description;datatype:blob,name:p_memo;datatype:blob,name:p_other;datatype:blob,name:p_online;datatype:string,name:p_file1;datatype:string,name:p_file2;datatype:string,name:p_file3;datatype:string,name:p_file4;datatype:string,name:p_file5;datatype:string,name:p_start_time;datatype:date,name:p_end_time;datatype:date,name:p_stock_num;datatype:int,name:p_sale_num;datatype:int,name:p_order;datatype:string" />
+</info>

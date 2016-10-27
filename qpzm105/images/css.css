@@ -1,0 +1,70 @@
+<style type="text/css">
+<!--
+body {
+background-color: #FFFFFF;
+margin-left: 0px;
+margin-top: 0px;
+background-image: url();
+}
+.font01 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #993300;
+text-decoration: none;
+}
+.font02 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #666666;
+}
+.font03 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #FFFFFF;
+}
+.table {
+border: 1px dashed #333333;
+}
+.line1 {
+border-bottom-width: 1px;
+border-bottom-style: dashed;
+border-bottom-color: #333333;
+border-top-width: 1px;
+border-top-style: dashed;
+border-top-color: #333333;
+}
+.line02 {
+border-right-width: 1px;
+border-right-style: dashed;
+border-right-color: #999999;
+}
+.font05 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: bold;
+color: #FFFFFF;
+}
+.font04 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #FFFFFF;
+text-decoration: underline;
+}
+a:hover {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #003399;
+text-decoration: underline;
+}
+.font06 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: bold;
+color: #990033;
+}
+.line03 {
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #CCCCCC;
+} 

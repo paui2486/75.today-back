@@ -1,0 +1,1 @@
+<?php header('Location:http://admin.iwine.com.tw/author/login.php'); ;?>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_permission" value="name:id;datatype:int,name:admin_account_id;datatype:int,name:menu_group_id;datatype:int,name:menu_detail_id;datatype:int" />
+	<infoitem key="UD_group" value="name:id;datatype:int,name:group_name;datatype:string,name:group_order;datatype:int" />
+	<infoitem key="UD_detail" value="name:id;datatype:int,name:group_id;datatype:int,name:menu_detail_name;datatype:string,name:menu_detail_path;datatype:string,name:menu_detail_order;datatype:int,name:menu_detail_target;datatype:string" />
+</info>
