@@ -39,7 +39,7 @@ if (isset($_SERVER['QUERY_STRING'])) {
 }
 
 if ((isset($_POST["MM_update"])) && ($_POST["MM_update"] == "form1")) {
-  $updateSQL = sprintf("UPDATE article SET n_title=%s, n_class=%s, n_name=%s, n_date=%s, n_cont=%s, n_fig1=%s, n_tag=%s, n_order=%s, n_status=%s, n_hot=%s, n_description=%s, n_keyword=%s, n_address=%s,n_shop=%s,n_tel=%s, view_counter=%s,n_socialnum=%s WHERE n_id=%s",
+  $updateSQL = sprintf("UPDATE article SET n_title=%s, n_class=%s, n_name=%s, n_date=%s, n_cont=%s, n_fig1=%s, n_tag=%s, n_order=%s, n_status=%s, n_hot=%s, n_description=%s, n_keyword=%s, n_address=%s,n_shop=%s,n_tel=%s, view_counter=%s,n_socialnum=%s,n_switchX=%s WHERE n_id=%s",
                        GetSQLValueString($_POST['n_title'], "text"),
 					   GetSQLValueString($_POST['n_class'], "int"),
                        GetSQLValueString($_POST['n_name'], "text"),
@@ -57,6 +57,7 @@ if ((isset($_POST["MM_update"])) && ($_POST["MM_update"] == "form1")) {
 					   GetSQLValueString($_POST['n_tel'], "text"),
 					   GetSQLValueString($_POST['view_counter'], "int"),
 					   GetSQLValueString($_POST['n_socialnum'], "int"),
+					   GetSQLValueString($_POST['n_switchX'], "text"),
                        GetSQLValueString($_POST['n_id'], "int"));
 
   mysql_select_db($database_iwine, $iwine);
@@ -198,6 +199,12 @@ jQuery("#n_date").datepick({dateFormat: 'yy-mm-dd'});
                     <td align="right" background="images/transp.gif" bgcolor="#999999" class="contnet_w">電話:</td>
                     <td bgcolor="#FFFFFF"><input name="n_tel" type="text" class="sform" id="n_tel" value="<?php echo $row_news['n_tel']; ?>" size="50"></td>
                   </tr>
+				  
+				  <tr bgcolor="#DDDDDD" class="t9">
+                    <td align="right" background="images/transp.gif" bgcolor="#999999" class="contnet_w">浮圖代碼:</td>
+                    <td bgcolor="#FFFFFF"><input name="n_switchX" type="text" class="sform" id="n_switchX" value="<?php echo $row_news['n_switchX']; ?>" size="50"><span class="text_cap">*請只輸入數字(開發中)</span></td>
+                  </tr>
+				  
 				  <tr bgcolor="#DDDDDD" class="t9">
                     <td width="15%" align="right" background="images/transp.gif" bgcolor="#999999" class="contnet_w">內容:</td>
                     <td bgcolor="#FFFFFF"><textarea name="n_cont" id="n_cont" cols="60" rows="10" class="ckeditor"><?php echo $row_news['n_cont']; ?></textarea>

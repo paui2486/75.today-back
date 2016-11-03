@@ -171,7 +171,7 @@ a:active {
                   <th align="center" background="images/transp.gif" bgcolor="#999999" class="contnet_w">內容(部分)</th>
                   <th align="center" background="images/transp.gif" bgcolor="#999999" class="contnet_w">顯示</th>
                   <th align="center" background="images/transp.gif" bgcolor="#999999" class="contnet_w">熱門</th>
-                  <th align="center" background="images/transp.gif" bgcolor="#999999" class="contnet_w">排序</th>
+                  <th align="center" background="images/transp.gif" bgcolor="#999999" class="contnet_w">浮圖代碼</th>
                   <th width="15%" align="center" background="images/transp.gif" bgcolor="#999999" class="contnet_w">管理                    
                   </th>
                   </tr>
@@ -188,7 +188,8 @@ a:active {
     <td align="center" bgcolor="#FFFFFF" class="text_cap"><?php echo substr_utf8(strip_tags($row_news['n_cont']),50); ?></td>
     <td align="center" bgcolor="#FFFFFF" class="text_cap"><?php echo $row_news['n_status']; ?></td>
     <td align="center" bgcolor="#FFFFFF" class="text_cap"><?php echo $row_news['n_hot']; ?></td>
-    <td align="center" bgcolor="#FFFFFF" class="text_cap"><?php echo $row_news['n_order']; ?></td>
+    <!--<td align="center" bgcolor="#FFFFFF" class="text_cap"><?php echo $row_news['n_order']; ?></td>-->
+	<td align="center" bgcolor="#FFFFFF" class="text_cap"><?php echo $row_news['n_switchX']; ?></td>
     <td align="center" bgcolor="#FFFFFF" class="contnet_w"><input name="button" type="button" class="sform_g" id="button" onClick="MM_goToURL('self','article_s.php?n_id=<?php echo $row_news['n_id']; ?>');return document.MM_returnValue" value="檢視或修改">
       <input name="button2" type="submit" class="sform_b" id="button2" onClick="dele('<?php echo $row_news['n_id']; ?>')" value="刪除"></td>
   </tr>

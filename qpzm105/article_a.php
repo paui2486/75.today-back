@@ -39,7 +39,7 @@ if (isset($_SERVER['QUERY_STRING'])) {
 }
 
 if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "form1")) {
-  $insertSQL = sprintf("INSERT INTO article (n_class, n_title, n_name, n_date, n_cont, n_fig1, n_order, n_status, n_tag, view_counter,n_description,n_keyword,n_socialnum, n_hot, n_address, n_shop,n_tel) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
+  $insertSQL = sprintf("INSERT INTO article (n_class, n_title, n_name, n_date, n_cont, n_fig1, n_order, n_status, n_tag, view_counter,n_description,n_keyword,n_socialnum, n_hot, n_address, n_shop,n_tel,n_switchX) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
                        GetSQLValueString($_POST['n_class'], "int"),
                        GetSQLValueString($_POST['n_title'], "text"),
                        GetSQLValueString($_POST['n_name'], "text"),
@@ -56,7 +56,8 @@ if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "form1")) {
 					   GetSQLValueString($_POST['n_hot'], "text"),
 					   GetSQLValueString($_POST['n_address'], "text"),//地址
 					   GetSQLValueString($_POST['n_shop'], "text"),//店名
-					   GetSQLValueString($_POST['n_tel'], "text"));//電話
+					   GetSQLValueString($_POST['n_tel'], "text"),
+					   GetSQLValueString($_POST['n_switchX'], "text"));//選擇特殊圖片
   mysql_select_db($database_iwine, $iwine);
   $Result1 = mysql_query($insertSQL, $iwine) or die(mysql_error());
   $_new_id = mysql_insert_id();
@@ -249,6 +250,12 @@ do {
 				  <tr bgcolor="#DDDDDD" class="t9">
                     <td align="right" background="images/transp.gif" bgcolor="#999999" class="contnet_w">電話:</td>
                     <td bgcolor="#FFFFFF"><input name="n_tel" type="text" class="sform" id="n_tel"><span class="text_cap">*請只輸入數字</span></td>
+                  </tr>
+				  
+				  </tr>
+				  <tr bgcolor="#DDDDDD" class="t9">
+                    <td align="right" background="images/transp.gif" bgcolor="#999999" class="contnet_w">浮圖代碼:</td>
+                    <td bgcolor="#FFFFFF"><input name="n_switchX" type="text" class="sform" id="n_switchX"><span class="text_cap">*請只輸入數字(開發中)</span></td>
                   </tr>
 				  
                   <tr bgcolor="#DDDDDD" class="t9">
